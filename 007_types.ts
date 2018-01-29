@@ -12,7 +12,7 @@ var fullName : string = "Bryan Lund";
 var ages : number [] = [33, 28, 11];
 
 // Tuple
-let Player : [number, string];
+let player : [number, string];
 player = [3, 'Corarra'];
 
 // Enum
