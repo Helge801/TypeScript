@@ -6,5 +6,6 @@
   "005_typescript_config.ts",
   "006_vairables.ts",
   "007_types.ts",
-  "008_type_alias.ts" ]
+  "008_type_alias.ts",
+  "009_union_types.ts" ]
 }
