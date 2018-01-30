@@ -7,5 +7,6 @@
   "006_vairables.ts",
   "007_types.ts",
   "008_type_alias.ts",
-  "009_union_types.ts" ]
+  "009_union_types.ts",
+  "014_loops.ts" ]
 }
