@@ -13,5 +13,7 @@
   "016_function_args.ts",
   "016_5_arrow_functions.ts",
   "017_functions_declerations_vs_expressions.ts",
-  "018_immediately_invoked_functions.ts" ]
+  "018_immediately_invoked_functions.ts",
+  "018_immediately_invoked_argument.ts",
+  "019_closure_intro.ts" ]
 }
