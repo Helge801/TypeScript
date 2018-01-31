@@ -3,5 +3,7 @@
     "sourceMap": true
   },
   "files": [
-  "026_name_spaces.ts" ]
+  "026_name_spaces.ts",
+  "TTT.ts",
+  "027_this.ts" ]
 }

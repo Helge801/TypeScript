@@ -17,3 +17,27 @@ function didWin(player : string) : string {
   }
   return won;
 }
+
+function canWin(player : string) : number[] {
+  for (let subArr of winningMethods) {
+    let count : number = 0;
+    let used : number = 0
+    for (let i of subArr) {
+      if (gameBoard[i] == player) {
+        count++;
+        used++;
+      }
+      else if (gameBoard[i] != " ") {
+        used++;
+      }
+    }
+    if (count == 2){
+      return subArr;
+    }
+  }
+  return null;
+}
+
+// function getOpenSpaces() : number[] {
+//   for (let )
+// }
