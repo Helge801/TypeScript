@@ -17,5 +17,7 @@
   "018_immediately_invoked_argument.ts",
   "019_closure_intro.ts",
   "020_classes.ts",
-  "021_inheritance.ts" ]
+  "021_inheritance.ts",
+  "TTT.ts",
+  "022_objects.ts" ]
 }
