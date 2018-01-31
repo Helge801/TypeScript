@@ -3,24 +3,5 @@
     "sourceMap": true
   },
   "files": [
-  "005_typescript_config.ts",
-  "006_vairables.ts",
-  "007_types.ts",
-  "008_type_alias.ts",
-  "009_union_types.ts",
-  "014_loops.ts",
-  "015_function.ts",
-  "016_function_args.ts",
-  "016_5_arrow_functions.ts",
-  "017_functions_declerations_vs_expressions.ts",
-  "018_immediately_invoked_functions.ts",
-  "018_immediately_invoked_argument.ts",
-  "019_closure_intro.ts",
-  "020_classes.ts",
-  "021_inheritance.ts",
-  "TTT.ts",
-  "022_objects.ts",
-  "023_interfaces.ts",
-  "024_interface_functions.ts",
-  "025_interface_classes.ts" ]
+  "026_name_spaces.ts" ]
 }
