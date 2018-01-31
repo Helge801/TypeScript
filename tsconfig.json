@@ -15,5 +15,7 @@
   "017_functions_declerations_vs_expressions.ts",
   "018_immediately_invoked_functions.ts",
   "018_immediately_invoked_argument.ts",
-  "019_closure_intro.ts" ]
+  "019_closure_intro.ts",
+  "020_classes.ts",
+  "021_inheritance.ts" ]
 }
