@@ -21,5 +21,6 @@
   "TTT.ts",
   "022_objects.ts",
   "023_interfaces.ts",
-  "024_interface_functions.ts" ]
+  "024_interface_functions.ts",
+  "025_interface_classes.ts" ]
 }
