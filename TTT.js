@@ -57,17 +57,17 @@ function getOpenSpace(spaces) {
 }
 function printBoard() {
     console.clear();
-    printLine(gameBoard.slice(0, 3));
+    console.log(" " + gameBoard[0] + " | " + gameBoard[1] + " | " + gameBoard[2] + "  |  " + "1" + " | " + "2" + " | " + "3");
     printDivider();
-    printLine(gameBoard.slice(3, 6));
+    console.log(" " + gameBoard[3] + " | " + gameBoard[4] + " | " + gameBoard[5] + "  |  " + "4" + " | " + "5" + " | " + "6");
     printDivider();
-    printLine(gameBoard.slice(6, 9));
+    console.log(" " + gameBoard[6] + " | " + gameBoard[7] + " | " + gameBoard[8] + "  |  " + "7" + " | " + "8" + " | " + "9");
 }
-function printLine(line) {
-    console.log(" " + line[0] + " | " + line[1] + " | " + line[2]);
-}
+// function printLine(line : string[]) : void {
+//   console.log(" " + line[0] + " | " + line[1] + " | " + line[2]);
+// }
 function printDivider() {
-    console.log("-----------");
+    console.log("-----------" + " | " + "-----------");
 }
 function computerGo() {
     if (canWin("O") != null) {
