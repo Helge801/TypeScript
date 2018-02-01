@@ -7,6 +7,7 @@
     "sourceMap": true
   },
   "files": [
-    "029_promisses.ts"
+    "029_promisses.ts",
+    "TTT.ts"
   ]
 }
