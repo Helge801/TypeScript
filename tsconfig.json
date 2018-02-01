@@ -7,6 +7,6 @@
     "sourceMap": true
   },
   "files": [
-    "032_method_decorators.ts"
+    "033_decorator_eangular.ts"
   ]
 }
