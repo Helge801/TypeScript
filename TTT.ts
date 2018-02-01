@@ -33,7 +33,7 @@ function canWin(player : string) : number[] {
         used++;
       }
     }
-    if (count == 2){
+    if (count == 2 && used < 3){
       return subArr;
     }
   }
